@@ -6,5 +6,5 @@ This practice is to classify the Iris flower as either setosa, versicolor, or vi
 
 <ul>
   <li>Weka 3.8</li>
-  <li>Iris Dataset</li>
+  <li><a href="http://tunedit.org/repo/UCI/iris.arff">Iris Dataset</a></li>
 </ul>
